@@ -14,7 +14,7 @@ double totalBonus = regularBonus + specialBonus
 Было провелено функциональное тестирование. 
 
 **Результаты**
-1. один тест 100% успешно.
+1. один тест 100% не успешно.
 2. https://github.com/ilonadobro/Precision/issues/1
 
 **Общие рекомендации**
